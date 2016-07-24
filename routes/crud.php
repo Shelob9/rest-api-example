@@ -83,7 +83,6 @@ abstract class crud implements route {
 			]
 		);
 
-		
 	}
 
 
