@@ -57,7 +57,7 @@ class product extends public_route {
 		$query = $this->query( $args );
 		$items = $this->prepare_items_for_response( $query );
 
-		return new response( $items, 200 );
+		return new response( $items, 200, [] );
 
 	}
 
