@@ -1,6 +1,6 @@
 <?php
 
-namespace josh\api\error;
+namespace josh\api\responses;
 
 
 class error extends \WP_Error {
