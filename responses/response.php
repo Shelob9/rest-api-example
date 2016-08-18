@@ -1,13 +1,6 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: josh
- * Date: 7/9/16
- * Time: 6:49 PM
- */
 
-namespace josh\api\error;
-
+namespace josh\api\responses;
 
 class response  extends \WP_REST_Response{
 	
